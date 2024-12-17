@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon SQL bug involving the use of an unsupported database function. The `bug.sql` file contains the erroneous query, which uses a function not present in all database systems. The `bugSolution.sql` file shows how to correct the code, making it database-agnostic or using a supported alternative.
